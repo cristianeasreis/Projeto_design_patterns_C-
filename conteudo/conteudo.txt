@@ -60,6 +60,17 @@ não funciona tão bem se você tiver um parafuso.
 Lembrem-se; Não é uma competição para ver quem usa
 mais padrões.
 
+Solid 
+SRP - Princípio de Responsabilidade única
+OCP - Principio aberto-fechado
+LSP - Principio de substituição de liskov
+ISP - Principio da segregação da interface
+DIP - Principio da invenção da dependência.
+
+
+
+
+
 
 
 

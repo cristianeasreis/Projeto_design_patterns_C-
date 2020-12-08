@@ -11,4 +11,55 @@ Elements of Reusable Object-Oriented software
 (Gang Of Four) em 1994.
 O "Gang of Four "Representa apenas uma de muitas Coleções.
 
+Porque eu devo usar ?
+
+> Produtividade: Estes padrões são modelos de 
+resolução de problemas que já foram utilizados e
+testados inúmeras vezes.
+> Manutenção: Os padrões são baseados em soluções 
+de baixo acoplamento e padronização de soluções.
+> Termos Universais: Os projetos são amplamente
+conhecidos desta forma as discussões técnicas
+são facilitadas, é mais simples falar o nome de 
+"design pattern" do que toda vez que explicar o seu 
+comportamento.
+
+Desuso
+
+Alguns padrões surgiram para solucionar limitações 
+de limitações de linguagens de programação com menos
+recursos no que diz respeito à abstração, nesses
+casos os padrões eram "gambiarras"que proporcionavam 
+à linguagem a possibilidade de fazer implementações 
+que não eram possíveis nativamente.
+Linguagens mais recentes trazem alguns destes recursos
+nativamente, em alguns outros casos os padrões foram 
+substituídos por padrões mais recentes.
+
+O padrão Strategy, por exemplo, pode ser substituído
+pelo uso de uma função anônima.
+
+Soluções "Prontas"
+
+Os padrões não são soluções prontas , códigos que 
+podemos pegar prontos e jogar dentro do projeto,
+em alguns casos é necessário ajustar o padrão 
+ao contexto em que o projeto necessita , e isso
+costuma demandar um conhecimento mais profundo por 
+parte da equipe de desenvolvimento.
+
+A "bala de prata"- É comum ver desenvolvedores que ao 
+conhecer um novo padrão / técnica , tentam encaixar
+ele em todos os cenários , inclusive em situações 
+onde uma abordagem mais simples seria o suficiente
+para resolver o problema.
+
+Um martelo é ótimo para colocar um prego na parede, mais 
+não funciona tão bem se você tiver um parafuso.
+
+Lembrem-se; Não é uma competição para ver quem usa
+mais padrões.
+
+
+
 

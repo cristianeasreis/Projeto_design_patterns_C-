@@ -5,4 +5,7 @@ Aplicando design patterns na prática com C#
 Neste projeto aprenda a desenvolver aplicações em C# 
 confiáveis e estruturadas com as melhores práticas do mercado.
 
+ESPECIALISTA
 
+Victor Fructuoso
+Manager Tech, Avanade

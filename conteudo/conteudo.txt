@@ -1,0 +1,14 @@
+Aplicando design patterns na prática com C#
+
+Definição 
+
+Design Patterns são soluções reutilizáveis para problemas
+comumente ocorridos( no contexto do design de software).
+Estes padrões foram iniciados como melhores contextos.
+Eles formaram populares depois que foram apresentados,
+de forma estruturada, no livro Design Patterns
+Elements of Reusable Object-Oriented software
+(Gang Of Four) em 1994.
+O "Gang of Four "Representa apenas uma de muitas Coleções.
+
+

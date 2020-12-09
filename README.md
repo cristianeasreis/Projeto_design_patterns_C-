@@ -14,9 +14,11 @@ Manager Tech, Avanade
 
 Bom os meus projetos feito no SENAC - SÃO MIGUEL PAULISTA 
 
-TCC DESKTOP 
-TCC APPMOBILE
-TCC WEB 
+"TCC DESKTOP - https://github.com/cristianeasreis/TCC_Senac_AppDesktopFerrari"
+
+"TCC APPMOBILE - https://github.com/cristianeasreis/TCC_Senac_AppMobile_Cordova"
+
+"TCC WEB - https://github.com/cristianeasreis/TCC_Senac_Web"
 
 Esse projeto foi feito para empresa FERRARI EMPILHADEIRA
 ONDE AGENTE PROCUROU ATENDER AS NECESSIDADES DO CLIENTE.

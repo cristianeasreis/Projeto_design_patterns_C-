@@ -20,7 +20,5 @@ Bom os meus projetos feito no SENAC - SÃO MIGUEL PAULISTA
 
 "TCC WEB - https://github.com/cristianeasreis/TCC_Senac_Web"
 
-Esse projeto foi feito para empresa FERRARI EMPILHADEIRA
-ONDE AGENTE PROCUROU ATENDER AS NECESSIDADES DO CLIENTE.
 
 

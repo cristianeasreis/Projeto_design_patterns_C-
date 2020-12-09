@@ -10,6 +10,8 @@ ESPECIALISTA
 Victor Fructuoso
 Manager Tech, Avanade
 
+# Atividades Extras Curriculares
+
 Bom os meus projetos feito no SENAC - SÃO MIGUEL PAULISTA 
 
 TCC DESKTOP 
